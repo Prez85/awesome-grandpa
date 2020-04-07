@@ -1,1 +1,2 @@
 # awesome-grandpa
+Improved feature
